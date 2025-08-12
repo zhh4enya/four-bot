@@ -1,0 +1,12 @@
+📝 Никнейм: {username}
+⭐ PP: {pp}                                                             
+                                                              
+🏁 Топ в стране: #{country_rank}                              
+🌍 Топ в мире: #{global_rank}                                                       
+
+👌 Точность: {accuracy}%
+
+🎮 Количество игр: {play_count}
+🕹 Время в игре: {play_time_hours}h {play_time_minutes}m
+
+{rank_text}
